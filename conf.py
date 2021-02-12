@@ -10,6 +10,10 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
+html_theme_options = {
+    'navigation_depth': 4,
+}
+
 project = 'CyVerse Glossary and Acronyms'
 copyright = '2021, CyVerse'
 author = 'CyVerse Learning'

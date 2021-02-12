@@ -2,7 +2,7 @@
 
 .. toctree::
   :caption: CyVerse
-  :maxdepth: 3
+  :maxdepth: 4
   :hidden:
   :glob:
 

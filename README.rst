@@ -30,7 +30,9 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 
 ----
 
-**A**
+######
+A
+######
 
 - **action:** automate a workflow in the context of CI/CD, see `GitHub Actions <https://github.com/features/actions>`_
 - **agile:** `development methodology <https://en.wikipedia.org/wiki/Agile_software_development>`_ for organizing a team to complete tasks organized over short periods called 'sprints'
@@ -40,14 +42,18 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **awesome:** a curated set of lists that provide insight into `awesome software projects on GitHub <https://github.com/topics/awesome-list>`_
 - **AVU:** Attribute-Value-Unit a components for `iRODS metadata <https://docs.irods.org/4.1.9/icommands/metadata/>`_.
 
-**B**
+######
+B
+######
 
 - **beta:** :math:`\beta`, a software version which is not yet ready for publication but is being tested
 - **bash:** Bash is the GNU Project's shell, the `Bourne-Again Shell <https://www.gnu.org/software/bash/>`_
 - **biocontainer:** a community-driven project that provides the infrastructure and basic guidelines to create, manage and distribute bioinformatics packages (e.g conda) and containers (e.g docker, singularity)
 -  **bioconda:** a channel for the conda package manager specializing in bioinformatics software
 
-**C**
+######
+C
+######
 
 - **CLI:** (1) the UNIX shell `command line interface <https://en.wikipedia.org/wiki/Command-line_interface>`_, most typically  BASH (2) the `CyVerse Learning Institute <https://learning.cyverse.org>`_
 - **command:** a set of instructions sent to the computer, typically in a typed interface
@@ -62,7 +68,9 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **CyVerse tool:** Software program that is integrated into the back end of the DE for use in DE apps
 - **CyVerse app:** graphic interface of a tool made available for use in the DE
 
-**D**
+######
+D
+######
 
 - **Debian:** `a free OS <https://www.debian.org/>`_, base of other Linux distributions such as Ubuntu
 - **Development:** the environment on your computer where you write code
@@ -74,17 +82,23 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **DOI:** a digital object identifier. A persistant identifier number, managed by the `doi.org <https://www.doi.org/>`_
 - **Dockerfile:** a text document that contains all the commands you would normally execute manually in order to build a Docker image. Docker can build images automatically by reading the instructions from a Dockerfile
 
-**E**
+######
+E
+######
 
 - **environment:** software that includes operating system, database system, specific tools for analysis
 - **entrypoint:** In a Dockerfile, an ENTRYPOINT is an optional definition for the first part of the command to be run
 
-**F**
+######
+F
+######
 
 - **FOSS:**  (1) `Free and Open Source Software <https://en.wikipedia.org/wiki/Free_and_open-source_software>`_, (2) `Foundational Open Science Skills <https://cyverse.org/foss>`_ - this class!
 - **function:** a named section of a program that performs a specific task
 
-**G**
+######
+G
+######
 
 - **git:** a version control system software
 - **gitter:** a Github based messaging service that uses markdown `gitter.im <https://gitter.im>`_
@@ -94,13 +108,17 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **GPU:** graphic processing unit
 - **GUI:** graphical user interface
 
-**H**
+######
+H
+######
 
 - **hack:** a quick job that produces what is needed, but not well
 - **HPC:** high performance computer, for large syncronous computation
 - **HTC:** high throughput computer, for many parallel tasks
 
-**I**
+######
+I
+######
 
 - **IaaS:** `Infrastructure as a Service <https://en.wikipedia.org/wiki/Infrastructure_as_a_service>`_. online services that provide APIs
 - **iCommands:** `command line application <https://docs.irods.org/master/icommands/user/>`_ for accessing iRODS Data Store
@@ -109,24 +127,32 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **image:** self-contained, read-only ‘snapshot’ of your applications and packages, with all their dependencies
 - **iRODS:** an open source integrated Rule-Oriented Data Management System, `iRODS.org <https://irods.org/>`_
 
-**J**
+######
+J
+######
 
 - **Java:** programming language, class-based, object-oriented
 - **JavaScript:** programming language
 - **JSON:** Java Script Object Notation, data interchange format that uses human-readable text
 - **Jupyter(Hub,Lab,Notebooks):** an IDE, originally the iPythonNotebook, operates in the browser `Project Jupyter <https://jupyter.org/>`_
 
-**K**
+######
+K
+######
 
 - **kernel:**  central component of most operating systems (OS)
 - **Kubernetes:** an open source container orchestration platform created by Google `Kubernetes <https://kubernetes.io/>`_ is often referred to as ``K8s``
 
-**L**
+######
+L
+######
 
 - **lib:** a UNIX library
 - **linux:** open source Unix-like operating system
 
-**M**
+######
+M
+######
 
 - **makefile:** a file containing a set of directives used by a `make build automation tool <https://www.gnu.org/software/make/>`_
 - **markdown:** a lightweight markup language with plain text formatting syntax
@@ -135,11 +161,15 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **master node:** responsible for deciding what runs on all of the cluster's nodes. Can include scheduling workloads, like containerized applications, and managing the workloads' lifecycle, scaling, and upgrades. The master also manages network and storage resources for those workloads
 - **Mac OS X:** Apple's popular desktop OS
 
-**N**
+######
+N
+######
 
 - **node:** a computer, typically 1 or 2 core (with many threads) server in a cloud or HPC center
 
-**O**
+######
+O
+######
 
 - **ontology:** formal naming and structural hierarchy used to describe data, also called a `knowledge graph <https://en.wikipedia.org/wiki/Ontology_(information_science)>`_
 - **organization:** a group, in the context of GitHub a place where developers contribute code to repositories
@@ -147,7 +177,9 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **Open Science Grid (OSG):** national, distributed computing partnership for data-intensive research `opensciencegrid.org <https://opensciencegrid.org/>`_
 - **ORCID:** Open Researcher and Contributor ID (`ORCiD <https://orcid.org/>`_), a persistent digital identifier that distinguishes you from every other researcher
 
-**P**
+######
+P
+######
 
 - **PaaS:** `Platform as a Service <https://en.wikipedia.org/wiki/Platform_as_a_service>`_ run and manage applications in cloud without complexity of developing it yourself
 - **package:** an app designed for a particular langauge
@@ -155,11 +187,15 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **Production:** environment where users access the final code after all of the updates and testing
 - **Python:**  interpreted, high-level, general-purpose programming language `Python.org <https://www.python.org/>`_
 
-**Q**
+######
+Q
+######
 
 - **QUAY.io:** private Docker registry `QUAY.io <https://quay.io>`_
 
-**R**
+######
+R
+######
 
 - **R:** data science programming language `R Project <https://cran.r-project.org/>`_
 - **recipe file:** a file with installation scripts used for building software such as containers, e.g. Dockerfile
@@ -170,7 +206,9 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **ReadTheDocs:** a web service for rendering documentation (that this website uses) `readthedocs.org <https://readthedocs.org>`_ and `readthedocs.com <https://readthedocs.com/>`_
 - **root:** the administrative user on a linux kernel - use your powers wisely
 
-**S**
+######
+S
+######
 
 - **SaaS:** `Software as a Service <https://en.wikipedia.org/wiki/Software_as_a_service>`_ web based platform for using software
 - **schema:** a metadata standard for labeling, tagging or coding for recording & cataloging information or structuring descriptive records. see `schema.org <https://schema.org/>`_
@@ -182,7 +220,9 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **Singularity def file:** (definition file) recipe for building a Singualrity container
 - **Stage:**  environment that is as similar to the production environment as can be for final testing
 
-**T**
+######
+T
+######
 
 - **tar:**  software utility for collecting many files into one archive file, often referred to as a tarball
 - **tensor:** algebraic object that describes a linear mapping from one set of algebraic objects to another
@@ -192,18 +232,24 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **TPU:** tensor processing unit
 - **Travis:** `Travis-CI <https://travis-ci.org/>`_, a continuous integration software
 
-**U**
+######
+U
+######
 
 - **Ubuntu:** most popular `Linux OS distribution <https://ubuntu.com/>`_, based on Debian
 - **UNIX:** operating system
 - **user:** the profile under which applications are started and run, ``root`` is the most powerful system administrator
 
-**V**
+######
+V
+######
 
 - **VICE:** `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ - Cyverse Data Science Workbench
 - **virtual machine:** is a software computer that, like a physical computer, runs an operating system and applications
 
-**W**
+######
+W
+######
 
 - **waterfall:** software development broken into linear sequential phases, similar to a Gantt chart
 - **webGL:** JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins
@@ -211,15 +257,21 @@ This glossary is to help you become more familiar with terms used in the CyVerse
 - **workspace:** (vs. repo)
 - **worker node:** A cluster typically has one or more nodes, which are the worker machines that run your containerized applications and other workloads. Each node is managed from the master, which receives updates on each node's self-reported status.
 
-**X**
+######
+X
+######
 
 - **XML:** Extensible Markup Language, data interchange format that uses human-readable text
 
-**Y**
+######
+Y
+######
 
 - **YAML:** YAML Ain't Markup Language, data interchange format that uses human-readable text
 
-**Z**
+######
+Z
+######
 
 - **ZenHub:** team collaboration solution built directly into GitHub that uses kanban style boards
 - **Zenodo:** general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN

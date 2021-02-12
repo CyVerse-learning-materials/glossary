@@ -1,7 +1,7 @@
 .. include:: README.rst
 
 .. toctree::
-  :caption: CyVerse
+  :caption: 
   :maxdepth: 4
   :hidden:
   :glob:

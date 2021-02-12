@@ -7,7 +7,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 ****************************
-CyVerse Glossary & Acronyms
+Glossary & Acronyms
 ****************************
 
 ..

@@ -14,9 +14,6 @@ CyVerse Glossary & Acronyms
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
     sharing data ####
 
-Goal
-----
-
 This glossary is to help you become more familiar with terms used in the CyVerse ecosystem as well as more broadly in Open Science and beyond.
 
 ..
@@ -42,6 +39,8 @@ A
 - **awesome:** a curated set of lists that provide insight into `awesome software projects on GitHub <https://github.com/topics/awesome-list>`_
 - **AVU:** Attribute-Value-Unit a components for `iRODS metadata <https://docs.irods.org/4.1.9/icommands/metadata/>`_.
 
+----
+
 ######
 B
 ######
@@ -50,6 +49,8 @@ B
 - **bash:** Bash is the GNU Project's shell, the `Bourne-Again Shell <https://www.gnu.org/software/bash/>`_
 - **biocontainer:** a community-driven project that provides the infrastructure and basic guidelines to create, manage and distribute bioinformatics packages (e.g conda) and containers (e.g docker, singularity)
 -  **bioconda:** a channel for the conda package manager specializing in bioinformatics software
+
+----
 
 ######
 C
@@ -68,6 +69,8 @@ C
 - **CyVerse tool:** Software program that is integrated into the back end of the DE for use in DE apps
 - **CyVerse app:** graphic interface of a tool made available for use in the DE
 
+----
+
 ######
 D
 ######
@@ -82,6 +85,8 @@ D
 - **DOI:** a digital object identifier. A persistant identifier number, managed by the `doi.org <https://www.doi.org/>`_
 - **Dockerfile:** a text document that contains all the commands you would normally execute manually in order to build a Docker image. Docker can build images automatically by reading the instructions from a Dockerfile
 
+----
+
 ######
 E
 ######
@@ -89,12 +94,16 @@ E
 - **environment:** software that includes operating system, database system, specific tools for analysis
 - **entrypoint:** In a Dockerfile, an ENTRYPOINT is an optional definition for the first part of the command to be run
 
+----
+
 ######
 F
 ######
 
 - **FOSS:**  (1) `Free and Open Source Software <https://en.wikipedia.org/wiki/Free_and_open-source_software>`_, (2) `Foundational Open Science Skills <https://cyverse.org/foss>`_ - this class!
 - **function:** a named section of a program that performs a specific task
+
+----
 
 ######
 G
@@ -108,6 +117,8 @@ G
 - **GPU:** graphic processing unit
 - **GUI:** graphical user interface
 
+----
+
 ######
 H
 ######
@@ -115,6 +126,8 @@ H
 - **hack:** a quick job that produces what is needed, but not well
 - **HPC:** high performance computer, for large syncronous computation
 - **HTC:** high throughput computer, for many parallel tasks
+
+----
 
 ######
 I
@@ -127,6 +140,8 @@ I
 - **image:** self-contained, read-only ‘snapshot’ of your applications and packages, with all their dependencies
 - **iRODS:** an open source integrated Rule-Oriented Data Management System, `iRODS.org <https://irods.org/>`_
 
+----
+
 ######
 J
 ######
@@ -136,6 +151,8 @@ J
 - **JSON:** Java Script Object Notation, data interchange format that uses human-readable text
 - **Jupyter(Hub,Lab,Notebooks):** an IDE, originally the iPythonNotebook, operates in the browser `Project Jupyter <https://jupyter.org/>`_
 
+----
+
 ######
 K
 ######
@@ -143,12 +160,16 @@ K
 - **kernel:**  central component of most operating systems (OS)
 - **Kubernetes:** an open source container orchestration platform created by Google `Kubernetes <https://kubernetes.io/>`_ is often referred to as ``K8s``
 
+----
+
 ######
 L
 ######
 
 - **lib:** a UNIX library
 - **linux:** open source Unix-like operating system
+
+----
 
 ######
 M
@@ -161,11 +182,15 @@ M
 - **master node:** responsible for deciding what runs on all of the cluster's nodes. Can include scheduling workloads, like containerized applications, and managing the workloads' lifecycle, scaling, and upgrades. The master also manages network and storage resources for those workloads
 - **Mac OS X:** Apple's popular desktop OS
 
+----
+
 ######
 N
 ######
 
 - **node:** a computer, typically 1 or 2 core (with many threads) server in a cloud or HPC center
+
+----
 
 ######
 O
@@ -177,6 +202,8 @@ O
 - **Open Science Grid (OSG):** national, distributed computing partnership for data-intensive research `opensciencegrid.org <https://opensciencegrid.org/>`_
 - **ORCID:** Open Researcher and Contributor ID (`ORCiD <https://orcid.org/>`_), a persistent digital identifier that distinguishes you from every other researcher
 
+----
+
 ######
 P
 ######
@@ -187,11 +214,15 @@ P
 - **Production:** environment where users access the final code after all of the updates and testing
 - **Python:**  interpreted, high-level, general-purpose programming language `Python.org <https://www.python.org/>`_
 
+----
+
 ######
 Q
 ######
 
 - **QUAY.io:** private Docker registry `QUAY.io <https://quay.io>`_
+
+----
 
 ######
 R
@@ -205,6 +236,8 @@ R
 - **RST:** ReStructuredText, a markdown type file
 - **ReadTheDocs:** a web service for rendering documentation (that this website uses) `readthedocs.org <https://readthedocs.org>`_ and `readthedocs.com <https://readthedocs.com/>`_
 - **root:** the administrative user on a linux kernel - use your powers wisely
+
+----
 
 ######
 S
@@ -220,6 +253,8 @@ S
 - **Singularity def file:** (definition file) recipe for building a Singualrity container
 - **Stage:**  environment that is as similar to the production environment as can be for final testing
 
+----
+
 ######
 T
 ######
@@ -232,6 +267,8 @@ T
 - **TPU:** tensor processing unit
 - **Travis:** `Travis-CI <https://travis-ci.org/>`_, a continuous integration software
 
+----
+
 ######
 U
 ######
@@ -240,12 +277,16 @@ U
 - **UNIX:** operating system
 - **user:** the profile under which applications are started and run, ``root`` is the most powerful system administrator
 
+----
+
 ######
 V
 ######
 
 - **VICE:** `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ - Cyverse Data Science Workbench
 - **virtual machine:** is a software computer that, like a physical computer, runs an operating system and applications
+
+----
 
 ######
 W
@@ -257,17 +298,23 @@ W
 - **workspace:** (vs. repo)
 - **worker node:** A cluster typically has one or more nodes, which are the worker machines that run your containerized applications and other workloads. Each node is managed from the master, which receives updates on each node's self-reported status.
 
+----
+
 ######
 X
 ######
 
 - **XML:** Extensible Markup Language, data interchange format that uses human-readable text
 
+----
+
 ######
 Y
 ######
 
 - **YAML:** YAML Ain't Markup Language, data interchange format that uses human-readable text
+
+----
 
 ######
 Z
@@ -509,12 +556,3 @@ Additional information, help
    .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
 
       <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-
-.. |Download Cyberduck| raw:: html
-
-   <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>

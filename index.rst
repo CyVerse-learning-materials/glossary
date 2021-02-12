@@ -7,8 +7,8 @@
   :glob:
 
   README
-  A <README.html#a>
-  B README#b
+  A #a
+  B #b
   C </projects/glossary/en/latest/README.html#c>
   D </projects/glossary/en/latest/README.html#d>
   E </projects/glossary/en/latest/README.html#e>
